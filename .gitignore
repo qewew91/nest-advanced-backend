@@ -76,5 +76,5 @@ typings/
 .fusebox/
 
 # IDE folders
-.idea
-.vscode
+/.idea
+/.vscode
